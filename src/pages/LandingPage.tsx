@@ -1,5 +1,10 @@
+import { NavBar } from "../components/NavBar";
+
 export const LandingPage = () => {
-    return (
-        <h1>Landing page</h1>
-    )
-}
+  return (
+    <>
+      <NavBar></NavBar>
+      <h1>Landing page</h1>
+    </>
+  );
+};

@@ -1,10 +1,12 @@
 # product-portfolio
+
 A product portfolio website for a artist friend of mine.
 
 ## Pages
+
 - Landing page of a gallery of images
 - Product details page of specific information
-- Contact page 
+- Contact page
 - Shipping and T&Cs (legal)
 
 ## Vite
